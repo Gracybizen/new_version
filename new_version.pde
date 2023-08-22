@@ -1,3 +1,4 @@
+//new code 
 import static javax.swing.JOptionPane.*;
 String name = showInputDialog("Enter your code");
 int Name = int(name);
